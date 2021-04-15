@@ -1,0 +1,14 @@
+{
+  "firestore": {
+    "rules": "minggu11",
+    "indexes": "no"
+  },
+  "hosting": {
+    "public": "y",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
